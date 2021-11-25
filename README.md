@@ -1,2 +1,2 @@
-# jptoapanta4_Tarea-3_CODIGO
-Tarea 3 Jean Pierre Toapanta Barahona
+# jptoapanta4_Tarea_3_CODIGO
+Tarea 3 de Jean Pierre Toapanta Barahona
